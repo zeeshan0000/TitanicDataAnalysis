@@ -1,8 +1,8 @@
 # Titanic Data Analysis Repository
 This repository contains a data analysis project based on the famous Titanic dataset, which includes information on passengers aboard the ill-fated Titanic ship. The goal of this project is to predict whether a passenger survived or not based on various features such as age, sex, passenger class, fare, and others. The Titanic dataset is widely used in data science as an introductory dataset for demonstrating predictive modeling and performing exploratory data analysis (EDA).
 
-# Project Breakdown:
-1. Data Collection & Cleaning:
+# Project Breakdown
+Data Collection & Cleaning:
 The Titanic dataset contains several missing values, categorical variables, and potential outliers. During the preprocessing stage, the following steps are applied to clean the data:
 
 # Imputation: 
