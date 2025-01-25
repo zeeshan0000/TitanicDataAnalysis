@@ -11,11 +11,14 @@ Feature Encoding: Categorical variables such as Sex and Embarked are encoded usi
 
 # Data Preparation: 
 The dataset is cleaned by ensuring that the test data matches the training data in terms of features and handling missing values efficiently.
-2. Exploratory Data Analysis (EDA):
+
+Exploratory Data Analysis (EDA):
 EDA is conducted to gain a better understanding of the dataset. The key steps include:
 
 Summary Statistics: Descriptive statistics are generated for numeric features to understand their distribution and identify any anomalies.
+
 Visualizations: Various plots (e.g., bar charts, histograms, and box plots) are used to examine survival rates, feature relationships (like age, sex, class), and feature distributions.
+
 Insights: EDA provides insights into factors that influence survival, which aids in feature selection for building predictive models.
 
 # 3. Feature Engineering:
